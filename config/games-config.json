@@ -1,0 +1,50 @@
+{
+  "301": {
+    "name": "301",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "timed": false,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "image": "https://previews.123rf.com/images/igormalovic/igormalovic1604/igormalovic160400660/55349733-target-with-darts-cartoon-doodle.jpg"
+  },
+  "cricket": {
+    "name": "Cricket",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "timed": false,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "image": "https://previews.123rf.com/images/igormalovic/igormalovic1604/igormalovic160400660/55349733-target-with-darts-cartoon-doodle.jpg"
+  },
+  "around-the-world": {
+    "name": "Around the World",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "timed": false,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "image": "https://previews.123rf.com/images/igormalovic/igormalovic1604/igormalovic160400660/55349733-target-with-darts-cartoon-doodle.jpg"
+  },
+  "killer": {
+    "name": "Killer",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "timed": false,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "image": "https://previews.123rf.com/images/igormalovic/igormalovic1604/igormalovic160400660/55349733-target-with-darts-cartoon-doodle.jpg"
+  },
+  "mario-dart": {
+    "name": "Mario Dart",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "timed": false,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "image": "https://previews.123rf.com/images/igormalovic/igormalovic1604/igormalovic160400660/55349733-target-with-darts-cartoon-doodle.jpg"
+  },
+  "10-challenge": {
+    "name": "10 Challenge",
+    "minPlayers": 1,
+    "maxPlayers": 1,
+    "timed": true,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "image": "https://previews.123rf.com/images/igormalovic/igormalovic1604/igormalovic160400660/55349733-target-with-darts-cartoon-doodle.jpg"
+  }
+}
